@@ -9,4 +9,6 @@ Use an environment manager for python. Im on ubuntu using pyenv
 
 create a .env file and add
 
-DISCORD_BOT_TOKEN2=<YOUR DISCORD BOT TOKEN>
+DISCORD_BOT_TOKEN2=YOUR DISCORD BOT TOKEN
+
+
